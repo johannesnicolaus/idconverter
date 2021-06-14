@@ -1,13 +1,13 @@
-Package: id.converter
+Package: idconverter
 Type: Package
-Title: What the Package Does (Title Case)
+Title: idconverter
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Author: Johannes Nicolaus Wibisana
+Maintainer: Johannes Nicolaus Wibisana <yourself@somewhere.net>
+Description: Convert gene ID
+License: MIT
 Encoding: UTF-8
 LazyData: true
 Depends: 
   biomaRt
+RoxygenNote: 7.1.1
